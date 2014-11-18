@@ -16,8 +16,6 @@ achieved in the "Mathematics Modeling" course to apply the **RSA** encryption sy
 
 
 ```
-#!sql
-
 CREATE TABLE IF NOT EXISTS `messages` (
   `idE` int(11) NOT NULL,
   `idR` int(11) NOT NULL,
